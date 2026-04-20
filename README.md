@@ -9,6 +9,22 @@
 ---
 ## Tecnologías que manejo:
 
-style Start fill:#f96,stroke:#333,stroke-width:2px
-    style Launch fill:#00ff00,stroke:#333,stroke-width:4px
-    style Design fill:#fff4dd,stroke:#d4a017
+%% Categorías
+    Root --- FE[<b>Frontend</b>]
+    Root --- BE[<b>Backend</b>]
+    Root --- DATA[<b>Data & Ops</b>]
+    Root --- AUTO[<b>Automation</b>]
+
+    %% Tecnologías
+    FE --- HTML(HTML5)
+    FE --- CSS(CSS3)
+    FE --- JS(JavaScript)
+
+    BE --- Java(Java)
+    BE --- PHP(PHP)
+
+    DATA --- SQL(SQL Databases)
+    DATA --- Git(Git / Version Control)
+
+    AUTO --- n8n(n8n Workflow)
+    AUTO --- Ect(Etcétera...)

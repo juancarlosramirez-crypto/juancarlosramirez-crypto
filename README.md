@@ -9,12 +9,12 @@
 ---
 ## Lista de Tecnologías:
 
-#### PHP
-#### n8n
-#### CSS
-#### JAVA
-#### JAVASCRIPT
-#### SQL
-#### HTML
-#### GIT
-#### ETC.
+#### ✅ PHP
+#### ✅ n8n
+#### ✅ CSS
+#### ✅ JAVA
+#### ✅ JAVASCRIPT
+#### ✅ SQL
+#### ✅ HTML
+#### ✅ GIT
+#### ✅ ETC.

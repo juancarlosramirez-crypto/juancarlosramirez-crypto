@@ -4,7 +4,7 @@
 
 ### Soy docente en Informática, actualmente laborando en el Instituto Nacional de Sonzacate, como docente en Desarrollo de Software, Informática y Ciencias de la Computación. Tambien estoy estudiando en el Curso de Transformación Digital para la Docencia Técnica, impartido por KODIGO y gestionado por el MINEDUCYT. 
 
-Me interesa el Desarrollo de Software y como implementar las nuevas tecnologias en mi práctica pedagógica.
+### Me interesa el Desarrollo de Software y como implementar las nuevas tecnologias en mi práctica pedagógica.
 
 ---
 ## Tecnologías que manejo:

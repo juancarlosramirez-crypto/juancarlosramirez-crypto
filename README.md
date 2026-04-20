@@ -7,7 +7,6 @@
 ### Me interesa el Desarrollo de Software y como implementar las nuevas tecnologias en mi práctica pedagógica.
 
 ---
----
 ## Lista de Tecnologías:
 
 #### ✅ PHP
@@ -20,5 +19,4 @@
 #### ✅ GIT
 #### ✅ ETC.
 
----
 ---
